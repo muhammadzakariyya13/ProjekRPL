@@ -86,15 +86,12 @@
 </head>
 
 <body>
-    <main>
-        <h1>Welcome to Laravel!</h1>
-        <p>Welcome again from views</p>
-        <div class="buttons">
-            <a href="/chatbot" class="btn">Chatbot</a>
-            <a href="/react" class="btn">React</a>
-            <a href="/products" class="btn">Product</a>
-        </div>
-    </main>
+    <a href="/chatbot">Chatbot</a>
+    <a href="/react">React</a>
+    <a href="/products">product</a>
+    <h1>Welcome to Larevel!</h1>
+    <p>Welcome again from views</p>
+    <p>This Is Muhammad Zakariyya</p>
 </body>
 
 </html>
